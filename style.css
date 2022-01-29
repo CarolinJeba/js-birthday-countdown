@@ -71,6 +71,20 @@ h1 {
 
 
 @media (max-width: 500px) {
+    html {
+        overflow: hidden;
+    }
+
+    body {
+        position: relative;
+    }
+
+    .year {
+        font-size: 155px;
+        bottom: 0;
+        top: 48px;
+    }
+
     h1 {
         font-size: 45px;
     }
