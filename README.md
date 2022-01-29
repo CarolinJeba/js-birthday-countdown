@@ -10,3 +10,6 @@ Landing page that counts down from the current date to the coming birthday
       * Insert values into the DOM
       * Show a spinner (gif) right before loading the countdown
       * Show the birth date in the background
+
+
+Deployed using Netlify: https://my-gifted-brother.netlify.app
